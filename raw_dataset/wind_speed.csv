@@ -1,4 +1,4 @@
-location_id,measurement_date,wind_speed_mps,air_density_kgm3,temperature_celsius
+locationid,measurementdate,windspeedmps,airdensity_kgm3,temperaturecelsius
 LOC-023,2020-11-04,25.08,1.22,6.7
 LOC-008,2024-10-31,25.21,1.24,16.6
 LOC-007,2021-06-15,28.03,1.11,29.38
