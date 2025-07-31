@@ -1,4 +1,4 @@
-location_id,date,temperature_celsius,humidity_percent,wind_speed_mps,precipitation_mm
+locationid,date,temperaturecelsius,humiditypercent,windspeed_mps,precipitation_mm
 LOC-016,2022-04-28,-11.18,41.37,15.59,35.61
 LOC-029,2022-03-22,-1.54,48.63,7.26,152.33
 LOC-029,2020-11-09,22.22,84.87,4.98,86.78
